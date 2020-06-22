@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.dufte.Tools</Id>
+  <Version>0.1</Version>
+  <Author>dufte</Author>
+  <Name>Tools</Name>
+  <Category>Tools</Category>
+  <Description>Common tools for Renoise</Description>
+  <Homepage>http://tools.renoise.com</Homepage>
+</RenoiseScriptingTool>
